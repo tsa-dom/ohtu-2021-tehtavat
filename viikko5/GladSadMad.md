@@ -1,0 +1,5 @@
+# Glad Sad Mad
+
+Pidimme miniprojektissamme glad sad mad retrospektiivin. Aloitimme retrospektiivin kirjoittamalla ensin huomioita aikaisemmasta sprintistä flingassa erilaisille muistilapuille. Glad osaan kirjoitimme, mikä sprintin aikana onnistui hyvin. Sad osaan kirjoitimme ne asiat jotka sprintin aikana eivät menneet niin hyvin kuin olisi voinut ja lähinnä nämä sad huomiot olivat niitä johin olisi tarkoitus kiinnittää huomiota tulevissa sprinteissä. Mad osaan kirjasimme sellaisia asioita jotka aiheuttivat sprintin aikana eritysisesti päänvaivaa ja joihin ei välttämättä olisi ollut selkeää helppoa ratkaisua.
+
+Muistilappujen kirjoittamisen jälkeen keskustelimme läpi jokaisen lapun sisällön niiden kategorioiden mukaan ja pohdimme kuinka relevantti niiden sisältö on. Pohdimme myös että mitä voisimme parantaa että seuraava sprintti menee paremmin kuin edellinen. Muistilaput kirjoitettiin Flingalla täysin nimettömästi ja täten muut ryhmäläiset eivät tienneet että kuka oli kirjoittanut minkäkin muistilapun. Retrospektiivimme kestivät tyypillisesti noin 15 minuuttia ja niitä pidettiin joka viikko sprintin lopussa olevan asiakastapaamisen jälkeen.
